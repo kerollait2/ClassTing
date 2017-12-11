@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void test2() {
-
+        System.out.println("test");
     }
 
 }
